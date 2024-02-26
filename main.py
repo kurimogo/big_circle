@@ -1,7 +1,6 @@
 import wx
 import numpy as np
 import colorsys
-
 from pynput.mouse import Controller
 
 mouse = Controller()
